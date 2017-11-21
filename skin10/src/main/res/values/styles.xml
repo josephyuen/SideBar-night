@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 切换开关样式 -->
+    <style name="WidgetSwitch">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:padding">1dp</item>
+        <item name="android:track">@android:color/transparent</item>
+        <item name="android:background">@drawable/shape_round_solid_gray</item>
+    </style>
+
+
+
+</resources>

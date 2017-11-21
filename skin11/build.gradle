@@ -1,0 +1,31 @@
+apply plugin: 'com.android.application'
+def outputPathName = "C:/Users/joseph/Desktop/skina/11.skin"
+android {
+    compileSdkVersion 25
+    buildToolsVersion "25.0.3"
+
+    defaultConfig {
+        applicationId "com.sheng.skin11"
+        minSdkVersion 18
+        targetSdkVersion 25
+        versionCode 1
+        versionName "1.0"
+
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    applicationVariants.all { variant ->
+        variant.outputs.each  { output ->
+            output.outputFile = new File(outputPathName)
+        }
+    }
+}
+
+dependencies {
+}

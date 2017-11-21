@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="base_status_bar">#FF232323</color>
+    <color name="cursor_color">#FFFFFFFF</color>
+
+    <color name="base_white_light">#FF666666</color>
+    <color name="base_transparent_gray">#FF535353</color>
+    <color name="base_transparent_white">#FF9B9B9B</color>
+
+    <color name="base_gray_light">#FF454545</color>
+
+    <!--<color name="base_status_bar">#FF232323</color>-->
+    <color name="base_text">#FFCECECE</color>
+    <color name="home_calendar_week">#FFCECECE</color>
+    <color name="personcenter_divider_line">#FF515151</color>
+
+    <color name="color_text_gray">#929292</color>
+    <color name="color_text_laboratory">#B29437</color>
+    <color name="color_laboratory_buy">#B29437</color>
+
+    <color name="home_create_background">#5A5A5A</color>
+
+    <color name="settinglinecolor">#3C3C3C</color>
+    <color name="labtextclolr">#FF929292</color>
+
+    <color name="calendar_gray">#3C3C3C</color>
+
+    <color name="sign_in_honor_day">#FFFFD84E</color>
+    <color name="sign_in_today_position">#FF603F08</color>
+    <color name="sign_in_day_text">#FF646464</color>
+    <color name="sharemenu">#5A5A5A</color>
+    <color name="change_tag_hint">#5A5A5A</color>
+    <color name="delete_list_tip">#FF9B9B9B</color>
+    <color name="reapeat_tips">#FF808080</color>
+    <color name="dialog_line">#444444</color>
+
+    <color name="calendar_day_item_busy">#FFF8E71C</color>
+    <color name="calendar_day_select">#FFF8E71C</color>
+    <color name="home_calendar_stroke_gray">#FFF8E71C</color>
+    <color name="home_calendar_out_date">#FF454545</color>
+    <color name="task_done_title_tag">#FF454545</color>
+    <color name="home_edit_task">#FF232323</color>
+    <color name="home_edit_task_space">@android:color/transparent</color>
+    <color name="personcenter_setting_border">#FF131313</color>
+    <color name="percenter_adapter_item_tip">#FFCECECE</color>
+    <color name="personcenter_bottom_select">#FFCECECE</color>
+    <color name="personcenter_coins_tip">#FFCECECE</color>
+
+    <color name="personcenter_wechat_invite">#FF232323</color>
+    <color name="personcenter_wechat_cicle_invite">#FFCECECE</color>
+
+    <color name="calendar_dialog_date_select_dividers">#FF646464</color>
+    <color name="calendar_dialog_date_select_normals">#FF646464</color>
+    <color name="home_left_image_background">#FF232323</color>
+
+    <color name="widget_background">#FFFFFFFF</color>
+    <color name="home_sidebar_tag_list">#FF858585</color>
+    <color name="base_black_normal">#424242</color>
+
+
+    <color name="calendar_page_change">#FF434343</color>
+    <color name="night_mode_time_tip">#FFCECECE</color>
+    <color name="home_sidebar_backgroud">#FF232323</color>
+
+    <color name="invite_friend_title">#FFFFFFFF</color>
+    <color name="invite_friend_tip_top">#FFFFFFFF</color>
+    <color name="invite_friend_wechat_text">#FF000000</color>
+    <color name="invite_friend_circle_text">#FFFFFFFF</color>
+    <color name="invite_friend_tip_bottom">#FFFFFFFF</color>
+    <color name="invite_friend_background">#FF232323</color>
+
+    <color name="editor_shadow_empty">#F4232323</color>
+
+
+    <color name="calendar_date_pick_dark">#CECECE</color>
+    <color name="calendar_date_pick_light">#CECECE</color>
+    <color name="calendar_date_pick_text_light">#646464</color>
+    <color name="calendar_date_pick_line_dark">#646464</color>
+    <color name="calendar_date_pick_line_light">#77646464</color>
+
+    <color name="tip_to_dark_when_skin">#FFCECECE</color>
+    <color name="percenter_gold_tip">#FF9B9B9B</color>
+    <color name="browse_share_background">#FF232323</color>
+    <color name="browse_share_line">#FF131313</color>
+
+</resources>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="base_white_share">#F2FFFFFF</color>
+
+    <color name="base_gray_normal">#7D9995</color>
+
+    <color name="personcenter_bottom_select">#FFCECECE</color>
+    <color name="personcenter_coins_tip">#FFCECECE</color>
+    <color name="calendar_day_item_busy">#FFFFFFFF</color>
+    <color name="calendar_day_select">#FFFFFFFF</color>
+    <color name="home_calendar_stroke_gray">#FFFFFFFF</color>
+    <color name="home_calendar_out_date">#7D9995</color>
+
+    <color name="color_text_gray">#929292</color>
+    <color name="base_gray_light">#7D9995</color>
+    <color name="base_white_light">#778484</color>
+    <color name="base_transparent_white">#FF9B9B9B</color>
+
+    <color name="base_black_normal">#7D9995</color>
+
+    <color name="delete_list_tip">#7D9995</color>
+
+    <color name="task_done_title_tag">#7D9995</color>
+
+    <color name="base_status_bar">#FF456E68</color>
+    <color name="base_text">#FFEEEEEE</color>
+    <color name="home_calendar_week">#FFFFFFFF</color>
+    <color name="personcenter_divider_line">#88E3E3E3</color>
+    <color name="percenter_adapter_item_tip">#7D9995</color>
+    <!--<color name="personcenter_setting_border"></color>-->
+
+    <color name="home_edit_task">#FF456E68</color>     <!--创建页面editor背景-->
+    <color name="create_editor">#7D9995</color>
+
+    <color name="home_sidebar_tag_list">#FFFFFFFF</color>
+    <color name="home_sidebar_tag_title">#FFFFFFFF</color>
+
+
+    <color name="personcenter_setting_border">#355651</color>
+    <color name="shape_home_search_background">#355651</color>
+
+    <color name="calendar_page_change">#355651</color>        <!-- 日历提示,深色 -->
+    <color name="base_transparent_gray">#FF456E68</color>      <!-- 日历提示,浅色 -->
+
+    <color name="base_white_normal">#FFE3E3E3</color>   <!-- 选择时间分割线颜色-->
+    <color name="calendar_dialog_date_select_divider">#FFE3E3E3</color>
+
+    <color name="change_tag_hint">#FFEEEEEE</color>
+    <color name="personcenter_wechat_invite">#FF000000</color>
+    <color name="widget_background">#FFFFFFFF</color>
+    <color name="browse_task_title">#FFEEEEEE</color>
+    <color name="color_text_laboratory">#FFEEEEEE</color>
+
+    <color name="dialog_selector_divider_top">#E3E3E3</color>
+    <color name="dialog_selector_divider_bottom">#F2F2F2</color>
+    <color name="base_red_normal">#7D9995</color>
+
+    <color name="editor_shadow_empty">#F4456E68</color>
+
+    <color name="calendar_date_pick_dark">#FFFFFFFF</color>
+    <color name="calendar_date_pick_light">#FFFFFFFF</color>
+    <color name="calendar_date_pick_text_light">#7FFFFFFF</color>
+    <color name="calendar_date_pick_line_dark">#FFFFFF</color>
+    <color name="calendar_date_pick_line_light">#7FFFFFFF</color>
+
+    <color name="night_mode_time_tip">#FFFFFFFF</color>
+
+    <color name="person_center_bottom_unselect">#7D9995</color>
+
+    <color name="tip_to_dark_when_skin">#FFEEEEEE</color>
+    <color name="percenter_gold_tip">#FFEEEEEE</color>
+    <color name="browse_share_background">#FF456E68</color>
+    <color name="browse_share_line">#355651</color>
+    <color name="cursor_color">#FFFFFFFF</color>
+
+</resources>

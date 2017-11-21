@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="base_white_share">#F2FFFFFF</color>
+
+    <color name="base_gray_normal">#44456E68</color>
+
+    <color name="personcenter_bottom_select">#FFCECECE</color>
+    <color name="personcenter_coins_tip">#FFCECECE</color>
+    <color name="calendar_day_item_busy">#456E68</color>
+    <color name="calendar_day_select">#456E68</color>
+    <color name="home_calendar_stroke_gray">#456E68</color>
+    <color name="home_calendar_out_date">#44456E68</color>
+
+    <color name="color_text_gray">#929292</color>
+    <color name="base_gray_light">#44456E68</color>
+    <color name="base_white_light">#778484</color>
+    <color name="base_transparent_white">#FF9B9B9B</color>
+
+    <color name="base_black_normal">#B4CBB9</color>
+
+    <color name="delete_list_tip">#B4CBB9</color>
+
+    <color name="task_done_title_tag">#B4CBB9</color>
+
+    <color name="base_status_bar">#FFE5F3DC</color>
+    <color name="base_text">#FF456E68</color>
+    <color name="home_calendar_week">#FF456E68</color>
+    <color name="personcenter_divider_line">#88456E68</color>
+    <color name="percenter_adapter_item_tip">#B4CBB9</color>
+    <!--<color name="personcenter_setting_border"></color>-->
+
+    <color name="home_edit_task">#FFE5F3DC</color>     <!--创建页面editor背景-->
+    <color name="create_editor">#B4CBB9</color>
+
+    <color name="home_sidebar_tag_list">#FF456E68</color>
+    <color name="home_sidebar_tag_title">#FF456E68</color>
+
+
+    <color name="personcenter_setting_border">#CEDFC3</color>
+    <color name="shape_home_search_background">#CEDFC3</color>
+
+    <color name="calendar_page_change">#CEDFC3</color>        <!-- 日历提示,深色 -->
+    <color name="base_transparent_gray">#FFE5F3DC</color>      <!-- 日历提示,浅色 -->
+
+    <color name="base_white_normal">#FF456E68</color>   <!-- 选择时间分割线颜色-->
+    <color name="calendar_dialog_date_select_divider">#FF456E68</color>
+
+    <color name="change_tag_hint">#FF456E68</color>
+    <color name="widget_background">#FFFFFFFF</color>
+    <color name="browse_task_title">#FF456E68</color>
+    <color name="color_text_laboratory">#FF456E68</color>
+
+
+    <color name="dialog_selector_divider_top">#E3E3E3</color>
+    <color name="dialog_selector_divider_bottom">#F2F2F2</color>
+    <color name="base_red_normal">#B4CBB9</color>
+
+    <color name="editor_shadow_empty">#F4E5F3DC</color>
+
+    <color name="calendar_date_pick_dark">#FF456E68</color>
+    <color name="calendar_date_pick_light">#FF456E68</color>
+    <color name="calendar_date_pick_text_light">#7F456E68</color>
+    <color name="calendar_date_pick_line_dark">#456E68</color>
+    <color name="calendar_date_pick_line_light">#7F456E68</color>
+
+    <color name="night_mode_time_tip">#FF456E68</color>
+
+    <color name="person_center_bottom_unselect">#B4CBB9</color>
+
+    <color name="tip_to_dark_when_skin">#FF456E68</color>
+    <color name="percenter_gold_tip">#FF456E68</color>
+    <color name="browse_share_background">#FFE5F3DC</color>
+    <color name="browse_share_line">#CEDFC3</color>
+    <color name="cursor_color">#456E68</color>
+
+</resources>
